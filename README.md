@@ -10,3 +10,5 @@ What's working :
 7. Audio (Conexant CX20590)
 8. Wi-Fi (AR9485 Wireless Network Adapter)
 9. Ethernet (AR8151 v2.0 Gigabit Ethernet)
+
+NB : Please use one of my patch on release page for updated version.
