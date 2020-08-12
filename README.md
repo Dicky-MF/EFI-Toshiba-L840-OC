@@ -1,4 +1,4 @@
-# EFI-Toshiba-L840-OC
+# EFI-Toshiba-L840M
 
 What's working :
 1. QE/CI AMD HD 7670M 2GB
