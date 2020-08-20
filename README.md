@@ -14,4 +14,4 @@ What's working :
 NB : Please use one of my patch on release page for updated version.
 
 
-All credit back to : CorpNewt, Vi9696, MaLd0n, Pavo, and all of hackintosher.
+All credit back to : CorpNewt, Vit9696, MaLd0n, Pavo, and all of hackintosher.
