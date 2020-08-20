@@ -12,3 +12,6 @@ What's working :
 9. Ethernet (AR8151 v2.0 Gigabit Ethernet)
 
 NB : Please use one of my patch on release page for updated version.
+
+
+All credit back to : CorpNewt, Vi9696, MaLd0n, Pavo, and all of hackintosher.
