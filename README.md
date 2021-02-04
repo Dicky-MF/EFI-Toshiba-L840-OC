@@ -1,17 +1,22 @@
 # EFI-Toshiba-L840M
 
-What's working :
-1. QE/CI AMD HD 7670M 2GB
-2. Backlight slider
-3. Fn+F(x) keys
-4. Sleep 
-5. Bluetooth (Need to boot in windows to trigger bluetooth on mac)
-6. USB remapping
-7. Audio (Conexant CX20590)
-8. Wi-Fi (AR9485 Wireless Network Adapter)
-9. Ethernet (AR8151 v2.0 Gigabit Ethernet)
+DO WITH YOUR OWN RISK  
+USING THIS EFI MEANS YOU ARE KNOW WHAT YOU DO AND WHAT SHOULD YOU DO  
 
-NB : Please use one of my patch on release page for updated version.
+### What's working :
+- QE/CI AMD HD 7670M 2GB
+- VGA Port
+- Backlight Slider
+- Fn+F(x) Keys
+- Sleep 
+- Bluetooth (Need to boot in windows to trigger bluetooth on mac)
+- USB Remapping
+- Audio (Conexant CX20590)
+- Wi-Fi (AR9485 Wireless Network Adapter)
+- Ethernet (AR8151 v2.0 Gigabit Ethernet)
 
-
-All credit back to : CorpNewt, Vit9696, MaLd0n, Pavo, and all of hackintosher.
+### Screenshots
+![OC](images/OC.png)
+![Windows](images/Windows.png)
+![Linux](images/Linux.png)
+![Mac](images/macOS.png)
